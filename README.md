@@ -65,7 +65,7 @@ Built thousands of APIs, including integration with:
 
 Front-end/Mobile:
 
-• Pure HTML, CSS, and JavaScript (23 years)
+• Pure HTML, CSS, and JavaScript (10 years)
 • Typescript (2 years)
 • React, Redux, Hooks (4 years)
 • React Native, Expo (4 years)
