@@ -117,3 +117,9 @@ Front-end/Mobile:
 
 • Bootstrap, Semantic UI, Material UI
 
+Built blockchain based app such as Defi, NFT:
+
+• Solidity, smart contract
+
+• Web3js and ETH, Polygon and BSC Network, 
+
